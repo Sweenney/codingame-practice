@@ -1,3 +1,6 @@
+# vim: ft=python
+# -*- python -*-
+
 import sys
 import math
 
