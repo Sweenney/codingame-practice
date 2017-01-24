@@ -1,3 +1,5 @@
+# -*- python -*-
+
 import sys, math
 
 surfaceN = int(input()) # the number of points used to draw the surface of Mars.

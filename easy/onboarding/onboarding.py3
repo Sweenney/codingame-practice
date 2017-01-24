@@ -1,3 +1,5 @@
+# -*- python -*-
+
 import sys, math
 
 # CodinGame planet is being attacked by slimy insectoid aliens.
