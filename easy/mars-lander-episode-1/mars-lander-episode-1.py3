@@ -19,7 +19,7 @@ for i in range(surfaceN):
 
         angle = 0
         power = 0
-        
+
         vSpeed *= -1
         if vSpeed >= 40:
             print(str(vSpeed // 10), file=sys.stderr)
